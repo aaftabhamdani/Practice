@@ -1,0 +1,6 @@
+docker rm azampay_airtel_push 
+docker rm azampay_airtel_ussd  azampay_cronserver azampay_crdb azampay_nmb 
+
+docker rm azampay_helopush azampay_heloussd azampay_pgportal azampay_portal azampay_tigopush azampay_tigoussd 
+
+docker rm azampay_zantelpush azampay_zantelussd 
